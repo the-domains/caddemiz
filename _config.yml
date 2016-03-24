@@ -2,6 +2,7 @@ name: caddemiz
 favicon: null
 layout_spectrum: 0.26259441394358873
 typography_spectrum: 0.5641233623027802
+title: null
 cta:
   domain: null
   bucket: null
