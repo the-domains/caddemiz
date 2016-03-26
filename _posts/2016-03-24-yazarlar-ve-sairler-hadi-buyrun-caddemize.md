@@ -6,10 +6,10 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-24T21:52:04.400Z'
-dateModified: '2016-03-24T21:50:19.219Z'
-title: "Yazarlar ve şairler,\_ hadı buyrun Caddemiz'e."
+description: "Our street might appear antiquated and quiet, but listen: this imagined and imaginative space is full of life, ideas, character, and exchanges. Our street is teeming with culturally rich and rooted inspiration, but its residents are moved by difference and humanism, and therefore our street recognizes no national boundaries that can limit whom we speak to, who hears us. This is one slice, one fluid moment and open-ended trajectory, where literary arts happen. We'll begin with glimpses of Turkish fiction and poetry in the English language. Questions, comments, and contributions for Caddemiz? Write to christine.diane.allen@gmail.com."
+datePublished: '2016-03-26T21:42:48.168Z'
+dateModified: '2016-03-26T21:38:40.550Z'
+title: "Yazarlar ve şairler,\_hadı buyrun Caddemiz'e."
 author: []
 authors: []
 publisher:
@@ -22,8 +22,9 @@ published: true
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b077fd2e-9b07-422a-87aa-e752abdb545d.tif)
+
 # Yazarlar ve şairler,   
 hadı buyrun Caddemiz'e.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c118928-882e-4507-9767-3348eb8e7032.tif)
 
-Our street might appear antiquated and quiet, but listen: this imagined and imaginative space is full of life, ideas, character, and exchanges. Our street is teeming with culturally rich and rooted inspiration, but its residents are moved by difference and humanism, and therefore our street recognizes no national boundaries that can limit whom we speak to, who hears us. This is one slice, one fluid moment and open-ended trajectory, where literary arts happen. We'll begin with glimpses of Turkish fiction and poetry in the English language. Questions, comments, and contributions about Caddemiz? Please write to christine.diane.allen@gmail.com.
+Our street might appear antiquated and quiet, but listen: this imagined and imaginative space is full of life, ideas, character, and exchanges. Our street is teeming with culturally rich and rooted inspiration, but its residents are moved by difference and humanism, and therefore our street recognizes no national boundaries that can limit whom we speak to, who hears us. This is one slice, one fluid moment and open-ended trajectory, where literary arts happen. We'll begin with glimpses of Turkish fiction and poetry in the English language. Questions, comments, and contributions for Caddemiz? Write to christine.diane.allen@gmail.com.
