@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[your imagined and imaginative boulevard of ideas, character, and story]]></title>
         <description><![CDATA[your imagined and imaginative boulevard of ideas, character, and story]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/caddemiz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 22:52:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 22:58:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/caddemiz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hadı buyrun Caddemiz'e]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaa52323-dcde-47ba-a38c-8be2626d5442.gif">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c9f85e5-68eb-4c1d-89b2-e5546a28a216.bmp">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaa52323-dcde-47ba-a38c-8be2626d5442.gif</link>
             <guid isPermaLink="false">b663b602-711d-4835-9bd5-b0b8d7265fa4</guid>
-            <pubDate>Mon, 20 Jun 2016 22:52:00 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2016 22:58:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
