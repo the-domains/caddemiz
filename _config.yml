@@ -1,6 +1,6 @@
 name: caddemiz
 favicon: null
-layout_spectrum: 0.16907
+layout_spectrum: 0.60621
 typography_spectrum: 0.07862
 title: 'an imagined and imaginative boulevard of character, color, ideas, and story'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#868580'
     - '#bc2709'
-  brandStrength: 0.3125
+  brandStrength: 0.5625
   lightness: 0.5625
   saturation: 0.75
   rhythmicContrast: 0.75
