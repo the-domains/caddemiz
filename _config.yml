@@ -1,4 +1,4 @@
-name: hadı buyrun caddemiz'e
+name: caddemiz
 favicon: null
 layout_spectrum: 0.67236
 typography_spectrum: 0.07862
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3d3510'
-    - '#000000'
-    - '#ffffff'
-    - '#868580'
-    - '#bc2709'
+    - '#3e3a24'
+    - '#d2d0c5'
+    - '#f9f3e4'
+    - '#acaa97'
+    - '#817d64'
   brandStrength: 0.6875
-  lightness: 0.6875
-  saturation: 0.5
-  rhythmicContrast: 0.75
+  lightness: 0.4375
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
