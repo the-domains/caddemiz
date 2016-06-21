@@ -8,17 +8,12 @@ inLanguage: null
 keywords: []
 description: >-
   Our boulevard has no beginning and no end, and it’s teeming with culturally
-  rich and rooted
-
-  inspiration, but its residents—a neighborhood literary and visual artists—are
-  moved by humanism and novelty. No borders or boundaries limit whom we speak
-  to, who hears us. Caddemiz is just one lighted slice, one fluid moment scored
-  with branching trajectories, where arts happen. We'll begin with glimpses of
-  Turkish
-
-  fiction and poetry in the English language.
-datePublished: '2016-06-20T23:52:53.669Z'
-dateModified: '2016-06-20T23:50:28.007Z'
+  rich and rooted inspiration, but its residents—a neighborhood literary and
+  visual artists—are moved by humanism and novelty. No borders or boundaries
+  limit whom we speak to, who hears us. Caddemiz is just one lighted slice, one
+  fluid moment scored with branching trajectories, where arts happen. 
+datePublished: '2016-06-21T00:01:35.037Z'
+dateModified: '2016-06-21T00:01:24.942Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-24-yazarlar-ve-sairler-hadi-buyrun-caddemize.md
@@ -28,5 +23,6 @@ starred: false
 _type: MediaObject
 
 ---
-Our boulevard has no beginning and no end, and it's teeming with culturally rich and rooted
-inspiration, but its residents---a neighborhood literary and visual artists---are moved by humanism and novelty. No borders or boundaries limit whom we speak to, who hears us. Caddemiz is just one lighted slice, one fluid moment scored with branching trajectories, where arts happen.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3103010e-e455-43fc-9f6f-d1d7c29a875a.jpg)
+
+Our boulevard has no beginning and no end, and it's teeming with culturally rich and rooted inspiration, but its residents---a neighborhood literary and visual artists---are moved by humanism and novelty. No borders or boundaries limit whom we speak to, who hears us. Caddemiz is just one lighted slice, one fluid moment scored with branching trajectories, where arts happen.
