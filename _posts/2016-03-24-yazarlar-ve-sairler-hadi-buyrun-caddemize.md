@@ -14,8 +14,8 @@ description: >-
   many lighted, fluid moments where arts happen. Let's begin with Turkish poets
   and see where that takes us. Call for entries: Türkçe şiir İngilizceye
   çevrilmiş gönderin lütfen.
-datePublished: '2016-06-24T17:24:22.178Z'
-dateModified: '2016-06-24T17:24:10.867Z'
+datePublished: '2016-06-24T18:38:10.324Z'
+dateModified: '2016-06-24T17:24:28.934Z'
 title: ''
 author: []
 authors: []
