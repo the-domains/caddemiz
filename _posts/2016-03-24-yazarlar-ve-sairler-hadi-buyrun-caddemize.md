@@ -13,15 +13,15 @@ description: >-
   voices; anonymity may be opted and reversed in safer times. Caddemiz is one of
   many lighted, fluid moments where arts happen. Let's begin with Turkish poets
   and see where that takes us. Call for entries: Türkçe şiir İngilizceye
-  çevrilmiş gönderin lütfen. 
-datePublished: '2016-06-21T01:01:21.114Z'
-dateModified: '2016-06-21T01:01:12.522Z'
+  çevrilmiş gönderin lütfen.
+datePublished: '2016-06-24T17:24:22.178Z'
+dateModified: '2016-06-24T17:24:10.867Z'
 title: ''
 author: []
-sourcePath: _posts/2016-03-24-yazarlar-ve-sairler-hadi-buyrun-caddemize.md
 authors: []
 publisher: null
 starred: false
+sourcePath: _posts/2016-03-24-yazarlar-ve-sairler-hadi-buyrun-caddemize.md
 _type: MediaObject
 
 ---
